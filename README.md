@@ -1,5 +1,5 @@
-# METODOS-BUSQUEDA
-Programa para la materia de IA que integra los algoritmos (BFS, DFS, Dijktra, A* y Branch&amp;Bound) para hacer una búsqueda dentro del ITCG, dependiendo del método de búsqueda seleccionado.
+# TICTACTOE-MEJORADO
+El juego posee el método IA que al presionar un botón en el menú de opciones nos arroja una determinada opción que puede ser piedra, papel, tijeras, lagarto o Spock.
 
 Se ha generado un manual de usuario para el [programa](https://drive.google.com/file/d/1dYH08iuEdIda0NNxHKCx9E7FQaB-MgpV/view?usp=sharing "programa").  
 
